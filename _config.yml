@@ -24,7 +24,7 @@ github_username:  pranav-kirsur
 future: true
 # Build settings
 markdown: kramdown
-theme: minima
+theme: poole/hyde
 plugins:
   - jekyll-feed
 
